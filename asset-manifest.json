@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_MovieList_API/static/css/main.dd14cc6f.css",
+    "main.js": "/react_MovieList_API/static/js/main.5a12b9a4.js",
+    "static/media/loading-55.gif": "/react_MovieList_API/static/media/loading-55.b31762eb9a76791d05b6.gif",
+    "index.html": "/react_MovieList_API/index.html",
+    "main.dd14cc6f.css.map": "/react_MovieList_API/static/css/main.dd14cc6f.css.map",
+    "main.5a12b9a4.js.map": "/react_MovieList_API/static/js/main.5a12b9a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd14cc6f.css",
+    "static/js/main.5a12b9a4.js"
+  ]
+}
